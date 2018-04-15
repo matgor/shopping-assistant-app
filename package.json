@@ -1,0 +1,30 @@
+{
+  "name": "jfdz7-nc_it-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^4.12.0",
+    "firebase-tools": "^3.18.1",
+    "gsap-promise": "^2.0.0",
+    "lodash": "^4.17.5",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "react-smooth": "^1.0.0",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "semantic-ui-css": "^2.3.0",
+    "semantic-ui-react": "^0.78.3",
+    "underscore": "^1.8.3",
+    "yarn": "^1.5.1",
+    "yarn-install": "^0.5.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
